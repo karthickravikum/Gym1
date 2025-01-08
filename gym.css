@@ -5,12 +5,13 @@
     width: 100vw;
 }
 .main2{
-    background-color: rgb(223, 220, 220);
+    background-color: rgb(161, 159, 159);
     border-radius: 50px;
     width: 500px;
     height: 500px;
-    margin-left: 550px;
-    margin-top:180px;
+    margin-left: 375px;
+    margin-top:20px;
+    margin-bottom: 20px;
 
 }
 .h11{
