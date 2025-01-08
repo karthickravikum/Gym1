@@ -38,3 +38,17 @@
 .butt{
     margin-top: 60px;
 }
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+    background-color: #5990ca;
+    transform: scale(1.1);
+}
